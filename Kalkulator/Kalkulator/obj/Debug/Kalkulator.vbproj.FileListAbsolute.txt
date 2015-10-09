@@ -1,0 +1,10 @@
+c:\users\ardhi_000\documents\visual studio 2013\Projects\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe.config
+c:\users\ardhi_000\documents\visual studio 2013\Projects\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+c:\users\ardhi_000\documents\visual studio 2013\Projects\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+c:\users\ardhi_000\documents\visual studio 2013\Projects\Kalkulator\Kalkulator\bin\Debug\Kalkulator.xml
+c:\users\ardhi_000\documents\visual studio 2013\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Form1.resources
+c:\users\ardhi_000\documents\visual studio 2013\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Resources.resources
+c:\users\ardhi_000\documents\visual studio 2013\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator.vbproj.GenerateResource.Cache
+c:\users\ardhi_000\documents\visual studio 2013\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+c:\users\ardhi_000\documents\visual studio 2013\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator.xml
+c:\users\ardhi_000\documents\visual studio 2013\Projects\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb
